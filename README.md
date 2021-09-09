@@ -11,6 +11,9 @@ Studying in Computer Engineering, Faculty of Engineering, Khon Kaen University.
 
 Current Job as Cooperative education at Odd-e Pte. Ltd.
 
+[![My Resume](https://img.shields.io/badge/Download-Resume-informational?style=flat&logo=website&logoColor=white&color=green)](https://drive.google.com/drive/folders/1EuF2fe8Q4SSjtcvssxiVzMjfIKRAOJcL?usp=sharing)
+[![My CV](https://img.shields.io/badge/Download-CV-informational?style=flat&logo=website&logoColor=white&color=orange)](https://drive.google.com/drive/folders/111y6uSLPa6l2F-grBvDQWsz97Yxv_3QK?usp=sharing)
+
 ### Connect with me
 
 [![My Website](https://img.shields.io/badge/My_Website-supatchareec.github.io-informational?style=flat&logo=website&logoColor=white&color=AF9FF8)](https://supatchareec.github.io/)
