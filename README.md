@@ -7,6 +7,10 @@ I'm Supatcharee from Thailand. I am a student of computer engineering with exper
 
 I am interested in learning new things. I think continuous learning is important because it helps us to be more capable and confident.
 
+Studying in Computer Engineering, Faculty of Engineering, Khon Kaen University.
+
+Current Job as Cooperative education at Odd-e Pte. Ltd.
+
 ### Connect with me
 
 [![My Website](https://img.shields.io/badge/My_Website-supatchareec.github.io-informational?style=flat&logo=website&logoColor=white&color=AF9FF8)](https://supatchareec.github.io/)
