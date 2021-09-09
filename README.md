@@ -1,5 +1,6 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Supatcharee Chaiya 🎄 
-
+<h2 align="center">
+   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Supatcharee Chaiya 🎄
+</h2> 
 <a align="right" href="https://github-readme-stats.vercel.app/api?username=supatchareec&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="right" alt="supatchareec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=supatchareec&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
@@ -53,4 +54,4 @@ Current Job as Cooperative education at Odd-e Pte. Ltd.
 ![Google API](https://img.shields.io/badge/-Google_API-informational?style=flat&logo=Google&logoColor=white&color=00ACD7)
 ![ArcGIS Map](https://img.shields.io/badge/-ArcGIS_Map-informational?style=flat&logo=global&logoColor=white&color=F7DF1E)
 
-
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=supatchareec&theme=onedark) -->
